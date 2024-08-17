@@ -27,6 +27,15 @@
     ]
   },
   {
+    "id": 1378,
+    "title": "Replace Employee ID With The Unique Identifier",
+    "title_slug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1683,
     "title": "Invalid Tweets",
     "title_slug": "invalid-tweets",
