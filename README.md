@@ -6,4 +6,5 @@
 
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
+| 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products) | Easy | `Database` |
