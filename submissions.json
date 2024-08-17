@@ -18,6 +18,15 @@
     ]
   },
   {
+    "id": 1068,
+    "title": "Product Sales Analysis I",
+    "title_slug": "product-sales-analysis-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1148,
     "title": "Article Views I",
     "title_slug": "article-views-i",
