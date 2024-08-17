@@ -10,6 +10,17 @@
     ]
   },
   {
+    "id": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "title_slug": "longest-substring-without-repeating-characters",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
