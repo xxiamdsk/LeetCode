@@ -21,6 +21,15 @@
     ]
   },
   {
+    "id": 197,
+    "title": "Rising Temperature",
+    "title_slug": "rising-temperature",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
