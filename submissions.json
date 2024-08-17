@@ -1,5 +1,15 @@
 [
   {
+    "id": 1,
+    "title": "Two Sum",
+    "title_slug": "two-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 584,
     "title": "Find Customer Referee",
     "title_slug": "find-customer-referee",
