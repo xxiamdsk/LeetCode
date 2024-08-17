@@ -45,6 +45,15 @@
     ]
   },
   {
+    "id": 1581,
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "title_slug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1683,
     "title": "Invalid Tweets",
     "title_slug": "invalid-tweets",
