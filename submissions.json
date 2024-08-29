@@ -75,6 +75,15 @@
     ]
   },
   {
+    "id": 1251,
+    "title": "Average Selling Price",
+    "title_slug": "average-selling-price",
+    "difficulty": "Easy",
+    "skills": [
+      "Database"
+    ]
+  },
+  {
     "id": 1280,
     "title": "Students and Examinations",
     "title_slug": "students-and-examinations",
