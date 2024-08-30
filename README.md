@@ -13,6 +13,7 @@
 | 0584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | Easy | `Database` |
 | 0595 | [Big Countries](https://leetcode.com/problems/big-countries) | Easy | `Database` |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | Easy | `Database` |
+| 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | Easy | `Database` |
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i) | Easy | `Database` |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | Easy | `Database` |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | Easy | `Database` |
