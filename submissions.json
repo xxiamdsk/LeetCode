@@ -21,6 +21,15 @@
     ]
   },
   {
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 197,
     "title": "Rising Temperature",
     "title_slug": "rising-temperature",
