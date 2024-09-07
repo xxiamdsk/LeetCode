@@ -1,0 +1,15 @@
+name: LeetSyncLite
+on: 
+  workflow_dispatch:
+  schedule:
+      - cron: '0 0 * * *'  # Run the workflow daily at midnight
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run LeetSyncLite
+        uses: xxiamdsk/LeetSyncLite@v1
+        with:
+          GITHUB_TOKEN: ${{ github.token }}
+          LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
+          LEETCODE_CSRF_TOKEN: ${{ secrets.LEETCODE_CSRF_TOKEN }}
