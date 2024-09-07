@@ -1,4 +1,4 @@
-name: LeetSyncLite
+name: LeetHubLite
 on: 
   workflow_dispatch:
   schedule:
@@ -7,8 +7,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Run LeetSyncLite
-        uses: xxiamdsk/LeetSyncLite@v1
+      - name: Run LeetHubLite
+        uses: xxiamdsk/LeetHubLite@v1
         with:
           GITHUB_TOKEN: ${{ github.token }}
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
