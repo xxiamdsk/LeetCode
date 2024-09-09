@@ -40,6 +40,15 @@
     ]
   },
   {
+    "id": 195,
+    "title": "Tenth Line",
+    "title_slug": "tenth-line",
+    "difficulty": "Easy",
+    "skills": [
+      "Shell"
+    ]
+  },
+  {
     "id": 197,
     "title": "Rising Temperature",
     "title_slug": "rising-temperature",
